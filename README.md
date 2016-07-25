@@ -26,7 +26,7 @@ look so beautiful.
 ## Usage
 
 ```objective-c
-#import <OpenSans/UIFont+Montserrat.h>
+#import <Montserrat/UIFont+Montserrat.h>
 
 @implementation MontserratViewController
 
